@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**dillythecoder/dillythecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Algorithm Visualizer
+- 
+- 🌱 I’m currently learning Game development
+- 
+- 💬 Ask me about Python, web development, bot development, and algorithms
+- 
+- 📫 How to reach me: Contact me at dillpickles432@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![dillythecoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=dillythecoder&show_icons=true&theme=radicalcustom_title=dillythecoder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillythecoder&layout=compact)](https://github.com/dillythecoder/github-readme-stats)
