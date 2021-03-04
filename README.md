@@ -1,6 +1,8 @@
-###Hello my name is dillythecoder😃
+
 
 - 🔭 I’m currently working on a Algorithm Visualizer
+
+- 📔Courses: Stanford🌲, Harvard, University of Michigain
 
 - 🌱 I’m currently learning Game development
 
